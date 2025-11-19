@@ -1,7 +1,7 @@
 {
   "preamble": {
-    "title": "esubalew/firstaiken",
-    "description": "Aiken contracts for project 'esubalew/firstaiken'",
+    "title": "menilik/firstaiken",
+    "description": "Aiken contracts for project 'menilik/firstaiken'",
     "version": "0.0.0",
     "plutusVersion": "v3",
     "compiler": {
@@ -92,7 +92,7 @@
       "hash": "d27ccc13fab5b782984a3d1f99353197ca1a81be069941ffc003ee75"
     },
     {
-      "title": "m001_practice/first_spend.my_first_spend.else",
+      "title": "m001_practice/first_spend.my_first_spend.else" ,
       "redeemer": {
         "schema": {}
       },

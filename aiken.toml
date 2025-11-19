@@ -1,13 +1,13 @@
-name = "esubalew/firstaiken"
+kname = "menilik/first_aiken"
 version = "0.0.0"
 compiler = "v1.1.19"
 plutus = "v3"
 license = "Apache-2.0"
-description = "Aiken contracts for project 'esubalew/firstaiken'"
+description = "Aiken contracts for project 'menilik/first_aiken'"
 
 [repository]
-user = "esubalew"
-project = "firstaiken"
+user = "menilik"
+project = "first_aiken"
 platform = "github"
 
 [[dependencies]]

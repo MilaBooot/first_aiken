@@ -1,7 +1,7 @@
 {
   "preamble": {
-    "title": "menilik/firstaiken",
-    "description": "Aiken contracts for project 'menilik/firstaiken'",
+    "title": "menilik/first_aiken",
+    "description": "Aiken contracts for project 'menilik/first_aiken'",
     "version": "0.0.0",
     "plutusVersion": "v3",
     "compiler": {
